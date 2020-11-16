@@ -1,0 +1,338 @@
+# This YAML file stores all job IDs known to TEAM SPIRIT  - Compiled by KOOKIIE
+# Copyright 2020 TEAM SPIRIT. All rights reserved.
+# Use of this source code is governed by a AGPL-style license that can be found in the LICENSE file.
+# This module provides a dictionary mapping all Job IDs to their respective Job names.
+# All efforts have been made to trace Job IDs in both GMS and KMS accurately.
+# Notable ommissions (Plase contribute if you have their Job IDs):
+#  - SAO Classes: Kirito, Asuna, Leafa
+#  - Sengoku Class (Special): Ayame
+#  - Explorer Class (Special): Zen
+
+# Explorer Classes (Aventurer in MSEA)
+# 0 <= Job ID < 1000
+beginner: '0'
+
+# Explorer Warrior
+warrior: '100'  # Explorer Warrior 1 (Common)
+fighter: '110'
+crusader: '111'
+hero: '112'
+
+page: '120'
+white_knight: '121'
+paladin: '122'
+
+spearman: '130'
+dragon_knight: '131'
+dark_knight: '132'
+
+# Explorer Mage
+magician: '200'
+fire_poison_wizard: '210'
+fire_poison_mage: '211'
+fire_poison_archmage: '212'
+
+ice_lightning_wizard: '220'
+ice_lightning_mage: '221'
+ice_lightning_archmage: '222'
+
+cleric: '230'
+priest: '231'
+bishop: '232'
+
+# Explorer Bowmen
+archer: '300'  # Explorer Bowman 1 (Common)
+hunter: '310'
+ranger: '311'
+bowmaster: '312'
+
+cross_bowman: '320'
+sniper: '321'
+marksman: '322'
+
+# Special Explorer: Pathfinder
+pathfinder1: '301'
+pathfinder2: '330'
+pathfinder3: '331'
+pathfinder4: '332'
+
+# Explorer Thieves
+rogue: '400'  # Explorer Thieves 1 (Common)
+assassin: '410'
+hermit: '411'
+night_lord: '412'
+
+bandit: '420'
+chief_bandit: '421'
+shadower: '422'
+
+# Special Explorer: Dual Blades
+blade_recruit: '430'
+blade_acolyte: '431'
+blade_specialist: '432'
+blade_lord: '433'
+blade_master: '434'
+
+# Explorer Pirates
+pirate: '500'  # Explorer Pirates 1 (Common)
+brawler: '510'
+marauder: '511'
+buccaneer: '512'  # (aka Viper in MSEA/KMS)
+
+gunslinger: '520'
+outlaw: '521'
+corsair: '522'
+
+# Special Explorer: Canonneer
+cannon_shooter: '501'
+cannoneer: '530'
+cannon_trooper: '531'
+cannon_master: '532'
+
+# Special Explorer: Jett
+jett1: '508'
+jett2: '570'
+jett3: '571'
+jett4: '572'
+
+
+# KoC Classes
+# 1000 <= Job ID < 2000, 5000 <= Job ID < 6000 (Mihile)
+noblesse: '1000'  # KoC Beginner
+
+# Soul Master in MSEA/KMS
+dawn_warrior1: '1100'
+dawn_warrior2: '1110'
+dawn_warrior3: '1111'
+dawn_warrior4: '1112'
+
+# Flame Wizard in MSEA/KMS
+blaze_wizard1: '1200'
+blaze_wizard2: '1210'
+blaze_wizard3: '1211'
+blaze_wizard4: '1212'
+
+# Wind Breaker in MSEA/KMS
+wind_archer1: '1300'
+wind_archer2: '1310'
+wind_archer3: '1311'
+wind_archer4: '1312'
+
+night_walker1: '1400'
+night_walker2: '1410'
+night_walker3: '1411'
+night_walker4: '1412'
+
+# Striker in MSEA/KMS
+thunder_breaker: '1500'
+thunder_breaker: '1510'
+thunder_breaker: '1511'
+thunder_breaker: '1512'
+
+
+# Heroes of Maple/Legends Classes
+# The 6 Hero classes (M, A, P, L, E, S) have 200X beginner job IDs
+# 2000 <= Job ID < 3000
+aran0: '2000'  # Aran Beginner (aka Legend)
+aran1: '2100'
+aran2: '2110'
+aran3: '2111'
+aran4: '2112'
+
+evan0: '2001'  # Evan Beginner
+evan1: '2200'
+evan2: '2210'
+evan3: '2211'
+evan4: '2212'
+evan5: '2213'
+evan6: '2214'
+evan7: '2215'
+evan8: '2216'
+evan9: '2217'
+evan10: '2218'
+
+mercedes0: '2002'  # Mercedes Beginner
+mercedes1: '2300'
+mercedes2: '2310'
+mercedes3: '2311'
+mercedes4: '2312'
+
+phantom0: '2003'  # Phantom Beginner
+phantom1: '2400'
+phantom2: '2410'
+phantom3: '2411'
+phantom4: '2412'
+
+# Eunwol in MSEA/KMS
+shade0: '2005'  # Shade Beginner
+shade1: '2500'
+shade2: '2510'
+shade3: '2511'
+shade4: '2512'
+
+luminous0: '2004'  # Luminous Beginner
+luminous1: '2700'
+luminous2: '2710'
+luminous3: '2711'
+luminous4: '2712'
+
+
+# Resistance Classes
+# 3000 <= Job ID < 4000
+citizen: '3000'  # Non-Demon/Xenon Resistance
+
+# Resistance classes have 300X beginner job IDs
+demon: '3001'  # Demon classes Beginner (Demons have their own beginner classes)
+demon_slayer1: '3100'
+demon_slayer2: '3110'
+demon_slayer3: '3111'
+demon_slayer4: '3112'
+
+demon_avenger1: '3101'
+demon_avenger2: '3120'
+demon_avenger3: '3121'
+demon_avenger4: '3122'
+
+battle_mage1: '3200'
+battle_mage2: '3210'
+battle_mage3: '3211'
+battle_mage4: '3212'
+
+wild_hunter1: '3300'
+wild_hunter2: '3310'
+wild_hunter3: '3311'
+wild_hunter4: '3312'
+
+mechanic1: '3500'
+mechanic2: '3510'
+mechanic3: '3511'
+mechanic4: '3512'
+
+xenon0: '3002'  # Xenon Beginner (Xenons have their own beginner class)
+xenon1: '3600'
+xenon2: '3610'
+xenon3: '3611'
+xenon4: '3612'
+
+blaster1: '3700'
+blaster2: '3710'
+blaster3: '3711'
+blaster4: '3712'
+
+
+# Sengoku Classes
+# Sengoku classes have 400X beginner job IDs
+# 4000 <= Job ID < 5000
+hayato0: '4001'  # Hayato Beginner
+hayato1: '4100'
+hayato2: '4110'
+hayato3: '4111'
+hayato4: '4112'
+
+kanna0: '4002'  # Kanna Beginner
+kanna1: '4200'
+kanna2: '4210'
+kanna3: '4211'
+kanna4: '4212'
+
+
+# Special KoC
+# 5000 <= Job ID < 6000
+mihile0: '5000'  # Mihile Beginner (aka Nameless Warden)
+mihile1: '5100'
+mihile2: '5110'
+mihile3: '5111'
+mihile4: '5112'
+
+
+# Nova Classes
+# 5600 <= Job ID < 7000
+kaiser0: '6000'  # Kaiser Beginner
+kaiser1: '6100'
+kaiser2: '6110'
+kaiser3: '6111'
+kaiser4: '6112'
+
+angelic_buster0: '6001'  # AB Beginner
+angelic_buster1: '6500'
+angelic_buster2: '6510'
+angelic_buster3: '6511'
+angelic_buster4: '6512'
+
+cadena0: '6002'  # Cadena Beginner
+cadena1: '6400'
+cadena2: '6410'
+cadena3: '6411'
+cadena4: '6412'
+
+
+# Child of God Classes
+# 10000 <= Job ID < 11000
+zero0: '10000'  # Zero Beginner
+zero1: '10100'
+zero2: '10110'
+zero3: '10111'
+zero4: '10112'
+
+
+# Child of Furry Classes
+# 11000 <= Job ID < 12000
+beast_tamer0: '11000'  # Beast Tamer Beginner
+beast_tamer1: '11200'
+beast_tamer2: '11210'
+beast_tamer3: '11211'
+beast_tamer4: '11212'
+
+
+# Special: Kinesis
+# 14000 <= Job ID < 15000
+kinesis0: '14000'  # Kinesis Beginner
+kinesis1: '14200'
+kinesis2: '14210'
+kinesis3: '14211'
+kinesis4: '14212'
+
+
+# Flora Classes
+# 15000 <= Job ID < 16000
+illium0: '15000'  # Illium Beginner
+illium1: '15200'
+illium2: '15210'
+illium3: '15211'
+illium4: '15212'
+
+ark0: '15001'  # Ark Beginner
+ark1: '15500'
+ark2: '15510'
+ark3: '15511'
+ark4: '15512'
+
+adele0: '15002'  # Adele Beginner
+adele1: '15100'
+adele2: '15110'
+adele3: '15112'
+adele4: '15111'
+
+
+# Anima Classes
+# 16000 <= Job ID < 17000
+hoyoung0: '16000'  # Hoyoung Beginner
+hoyoung1: '16400'
+hoyoung2: '16410'
+hoyoung3: '16411'
+hoyoung4: '16412'
+
+
+# Special jobs
+# Misc Job IDs that are either deprecated or used for other things
+manager: '800'
+gm: '900'
+super_gm: '910'
+additional_skills: '9000'
+v-skills: '40000'
+
+
+# Special: Pink Bean - Event Class
+# 13000 <= Job ID < 14000
+pink_bean0: '13000'  # Pink Bean Beginner
+pink_bean1: '13100'
