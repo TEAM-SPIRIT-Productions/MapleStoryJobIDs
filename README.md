@@ -1,9 +1,9 @@
 # MapleStoryJobIDs
-This repository houses a collection of MapleStory Job IDs up to Adele.  
-**MapleStory RISE:**
-  - *KMS: v329*
-  - *GMS: v214*
-  - *MSEA: v195*
+This repository houses a collection of MapleStory Job IDs up to Kain.  
+**MapleStory NEO:**
+  - *KMS: v343*
+  - *GMS: v214* (Kain not available as of time of writing)
+  - *MSEA: v195* (Kain not available as of time of writing)
 
 All efforts have been made to trace Job IDs in both GMS and KMS accurately. Please file an [issue](https://github.com/TEAM-SPIRIT-Productions/MapleStoryJobIDs/issues) or [PR](https://github.com/TEAM-SPIRIT-Productions/MapleStoryJobIDs/pulls) for mistakes.  
 Notable ommissions (Plase contribute if you have their Job IDs):  

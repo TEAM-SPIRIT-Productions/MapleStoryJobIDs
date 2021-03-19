@@ -265,6 +265,12 @@ cadena2: '6410'
 cadena3: '6411'
 cadena4: '6412'
 
+kain0: '6003'  # Kain Beginner
+kain1: '6300'
+kain2: '6310'
+kain3: '6311'
+kain4: '6312'
+
 
 # Child of God Classes
 # 10000 <= Job ID < 11000

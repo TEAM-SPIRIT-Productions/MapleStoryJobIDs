@@ -265,6 +265,12 @@
 '6411': 'Cadena'  # Cadena 3
 '6412': 'Cadena'  # Cadena 4
 
+'6003': 'Kain'  # Kain Beginner
+'6300': 'Kain'  # Kain 1
+'6310': 'Kain'  # Kain 2
+'6311': 'Kain'  # Kain 3
+'6312': 'Kain'  # Kain 4
+
 
 # Child of God Classes
 # 10000 <= Job ID < 11000
