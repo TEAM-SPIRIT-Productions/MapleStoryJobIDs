@@ -328,6 +328,12 @@ hoyoung2: '16410'
 hoyoung3: '16411'
 hoyoung4: '16412'
 
+lara0: '16001'  # Lara Beginner
+lara1: '16200'
+lara2: '16210'
+lara3: '16211'
+lara4: '16212'
+
 
 # Special jobs
 # Misc Job IDs that are either deprecated or used for other things
