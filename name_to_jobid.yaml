@@ -1,12 +1,8 @@
 # This YAML file stores all job IDs known to TEAM SPIRIT  - Compiled by KOOKIIE
-# Copyright 2020 TEAM SPIRIT. All rights reserved.
+# Copyright 2020 - 2021 TEAM SPIRIT. All rights reserved.
 # Use of this source code is governed by a AGPL-style license that can be found in the LICENSE file.
 # This module provides a dictionary mapping all Job IDs to their respective Job names.
 # All efforts have been made to trace Job IDs in both GMS and KMS accurately.
-# Notable ommissions (Plase contribute if you have their Job IDs):
-#  - SAO Classes: Kirito, Asuna, Leafa
-#  - Sengoku Class (Special): Ayame
-#  - Explorer Class (Special): Zen
 
 # Explorer Classes (Aventurer in MSEA)
 # 0 <= Job ID < 1000
@@ -316,8 +312,8 @@ ark4: '15512'
 adele0: '15002'  # Adele Beginner
 adele1: '15100'
 adele2: '15110'
-adele3: '15112'
-adele4: '15111'
+adele3: '15111'
+adele4: '15112'
 
 
 # Anima Classes
@@ -340,11 +336,15 @@ lara4: '16212'
 manager: '800'
 gm: '900'
 super_gm: '910'
+riding: '8000'
 additional_skills: '9000'
 v-skills: '40000'
 
 
-# Special: Pink Bean - Event Class
+# Special: Event Classes
 # 13000 <= Job ID < 14000
 pink_bean0: '13000'  # Pink Bean Beginner
-pink_bean1: '13100'
+pink_bean1: '13100'  # Pink Bean 1
+
+yeti0: '13001'  # Yeti Beginner
+yeti1: '13500'  # Yeti 1
