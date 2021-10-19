@@ -1,14 +1,17 @@
 # MapleStoryJobIDs
-This repository houses a collection of MapleStory Job IDs up to Kain.  
-**MapleStory NEO:**
-  - *KMS: v343*
-  - *GMS: v214* (Kain not available as of time of writing)
-  - *MSEA: v195* (Kain not available as of time of writing)
+This repository houses a collection of MapleStory Job IDs up to Lara.  
+**Corresponding Patch Versions:**
+  - *KMS: v351*
+    - **MapleStory LIVE** - introduction of Lara class
+  - *GMS: v224* (Lara not available as of time of writing)
+    - **MapleStory NEO: Light's Wrath** - equivalent to Hotel Arcs
+  - *MSEA: v206* (Lara not available as of time of writing)
+    - **MapleStory NEO: Hotel Arcs**
 
 All efforts have been made to trace Job IDs in both GMS and KMS accurately. Please file an [issue](https://github.com/TEAM-SPIRIT-Productions/MapleStoryJobIDs/issues) or [PR](https://github.com/TEAM-SPIRIT-Productions/MapleStoryJobIDs/pulls) for mistakes.  
-Notable ommissions (Plase contribute if you have their Job IDs):  
+Notable ommissions:  
  - SAO Classes: *Kirito, Asuna, Leafa* (GMS)
  - Sengoku Class (Special): *Ayame*
- - Explorer Class (Special): *Zen* (MSEA/CMS/TMS) - Probably the same as Jett but need confirmation
+ - Jett-equivalents: Zen/Mo Xuan
 
 Job IDs are provided as YAML files; one maps Job IDs to their names, and the other vice versa.  
